@@ -1,0 +1,19 @@
+recording_id,start_seconds,end_seconds,activity,annotation_status
+All_01_2026-10-30_19-48-49,0,11,Still,estimated stable
+All_01_2026-10-30_19-48-49,11,16,Transition,exclude phone handling
+All_01_2026-10-30_19-48-49,16,21,Standing,estimated stable
+All_01_2026-10-30_19-48-49,21,32,Walking,estimated stable
+All_01_2026-10-30_19-48-49,32,33,Transition,exclude activity change
+All_01_2026-10-30_19-48-49,33,42.5,Jumping,estimated stable
+All_02_2026-10-30_19-50-02,0,10,Still,estimated stable
+All_02_2026-10-30_19-50-02,10,15,Transition,exclude phone handling
+All_02_2026-10-30_19-50-02,15,21,Standing,estimated stable
+All_02_2026-10-30_19-50-02,21,32,Walking,estimated stable
+All_02_2026-10-30_19-50-02,32,33,Transition,exclude activity change
+All_02_2026-10-30_19-50-02,33,41.1,Jumping,estimated stable
+All_03_2026-10-30_19-51-14,0,11,Still,estimated stable
+All_03_2026-10-30_19-51-14,11,14,Transition,exclude phone handling
+All_03_2026-10-30_19-51-14,14,21,Standing,estimated stable
+All_03_2026-10-30_19-51-14,21,32,Walking,estimated stable
+All_03_2026-10-30_19-51-14,32,33,Transition,exclude activity change
+All_03_2026-10-30_19-51-14,33,41.1,Jumping,estimated stable
